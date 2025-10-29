@@ -45,7 +45,7 @@ Here you’ll find a mix of projects, experiments, and tools I’ve built to lea
 ![This Year](https://img.shields.io/endpoint?style=flat-square&url=https://bold-heart-645a.gezsuagshsu.workers.dev/counter?scope=year&v=8)
 
 ### 📊 Profile Visits (Live)
-👉 [See live stats here](https://DEINNAME.github.io/)
+👉 [See live stats here](https://Pythoneus.github.io/)
 
 <!-- counting pixel (unique/day); keep it once, ideally at the very end -->
 <img src="https://bold-heart-645a.gezsuagshsu.workers.dev/hit?unique=1" width="1" height="1" alt="" />
