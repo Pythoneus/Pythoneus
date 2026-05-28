@@ -61,12 +61,7 @@ My name is a small nod to two worlds: the **Python** language and the **Python o
 
 <div align="center">
 
-  <img height="170px" src="https://github-readme-stats.vercel.app/api?username=Pythoneus&show_icons=true&hide_border=true&bg_color=0D1117&title_color=4ADE80&text_color=C9D1D9&icon_color=22C55E&rank_icon=github" alt="GitHub Stats" />
   <img height="170px" src="https://streak-stats.demolab.com/?user=Pythoneus&hide_border=true&background=0D1117&stroke=166534&ring=4ADE80&fire=22C55E&currStreakLabel=4ADE80&sideLabels=C9D1D9&dates=8B949E&currStreakNum=FFFFFF&sideNums=FFFFFF" alt="GitHub Streak" />
-
-  <br/>
-
-  <img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pythoneus&layout=compact&hide_border=true&bg_color=0D1117&title_color=4ADE80&text_color=C9D1D9&langs_count=8" alt="Top Languages" />
 
   <br/><br/>
 
@@ -74,22 +69,8 @@ My name is a small nod to two worlds: the **Python** language and the **Python o
 
 </div>
 
-<div align="center">
-<details>
-  <summary>Trophies</summary>
-  <br/>
-  <img width="95%" src="https://github-profile-trophy.vercel.app/?username=Pythoneus&theme=darkhub&no-frame=true&column=7&margin-w=8&margin-h=8" alt="Trophies" />
-</details>
-</div>
-
 ---
 
-<!--
-  Optional: animated contribution snake.
-  This graphic only appears once the workflow
-  .github/workflows/snake.yml has run at least once (Actions tab -> Run workflow).
-  If you don't want it, simply delete this block.
--->
 <div align="center">
 
   <img width="95%" src="https://raw.githubusercontent.com/Pythoneus/Pythoneus/output/github-snake-dark.svg" alt="Contribution Snake" />
