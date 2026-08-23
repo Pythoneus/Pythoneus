@@ -23,11 +23,11 @@ jobs:
         id: snake
         with:
           github_user_name: ${{ github.repository_owner }}
+          # Optional green variant matching the logo — add this line to `outputs` and reference it in the README:
+          #   dist/github-snake-green.svg?color_snake=22c55e&color_dots=0d1117,166534,22c55e,4ade80,86efac
           outputs: |
             dist/github-snake.svg
             dist/github-snake-dark.svg?palette=github-dark
-            # Green variant matching the logo (optional, reference it in the README):
-            # dist/github-snake-green.svg?color_snake=22c55e&color_dots=0d1117,166534,22c55e,4ade80,86efac
 
       - name: Push to the output branch
         uses: crazy-max/ghaction-github-pages@v4

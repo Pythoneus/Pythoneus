@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="Logo_Phytoneus.png" width="210" alt="Pythoneus Logo" />
+  <img src="Logo_Pythoneus.png" width="210" alt="Pythoneus Logo" />
 
   <h1>Pythoneus</h1>
 
@@ -9,8 +9,6 @@
   </a>
 
   <p><em>"The serpent coils toward the truth."</em></p>
-
-  <img src="https://komarev.com/ghpvc/?username=Pythoneus&color=22c55e&style=flat-square&label=Profile+views" alt="Profile views" />
 
 </div>
 
@@ -26,6 +24,37 @@ My name is a small nod to two worlds: the **Python** language and the **Python o
 - Drawn to clean code, well-considered solutions, and learning new things
 - Away from the screen, somewhere between anime, pixel art, and creative ideas
 - Always open to good conversations and fresh perspectives
+
+---
+
+## Projects
+
+<table>
+  <tr>
+    <td width="58%" valign="top">
+      <h3><a href="https://github.com/Pythoneus/snake-pathfinding-lab">Snake Pathfinding Lab</a></h3>
+      <p>
+        Snake in Pygame as a test lab for pathfinding: seven controllers — Greedy, BFS, DFS, A*, Lookahead,
+        Hamilton, Hamilton+ — compete on the same board while you watch them think: planned path, animated
+        search space, compute time per move, races, tournaments with statistics and significance tests,
+        and a map editor with its own terrain. Bilingual (DE/EN): user docs, theory in three levels of
+        depth, and a hands-on tutorial that ends with your own bot in the tournament.
+      </p>
+      <p>
+        <a href="https://github.com/Pythoneus/snake-pathfinding-lab/actions/workflows/ci.yml"><img src="https://github.com/Pythoneus/snake-pathfinding-lab/actions/workflows/ci.yml/badge.svg" alt="CI" /></a>
+        <img src="https://img.shields.io/badge/Python-3.10%2B-3776AB?logo=python&logoColor=white" alt="Python 3.10+" />
+        <img src="https://img.shields.io/badge/Pygame-CE-22C55E" alt="Pygame" />
+        <img src="https://img.shields.io/badge/License-PolyForm%20Noncommercial-166534" alt="License: PolyForm Noncommercial" />
+      </p>
+      <p>Free for schools, universities and private use — see the repository for details.</p>
+    </td>
+    <td width="42%" valign="top">
+      <a href="https://github.com/Pythoneus/snake-pathfinding-lab">
+        <img src="https://raw.githubusercontent.com/Pythoneus/snake-pathfinding-lab/main/docs/img/en/pfadsuche.png" alt="Snake Pathfinding Lab — A* with visible search space" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -76,6 +105,13 @@ My name is a small nod to two worlds: the **Python** language and the **Python o
   <img width="95%" src="https://raw.githubusercontent.com/Pythoneus/Pythoneus/output/github-snake-dark.svg" alt="Contribution Snake" />
 
 </div>
+
+---
+
+## Get in touch
+
+Questions about the projects, feedback from schools and universities, ideas, or simply a good conversation —
+write to me: **[pythoneus.overfed643@passmail.net](mailto:pythoneus.overfed643@passmail.net)**
 
 ---
 
